@@ -1,0 +1,20 @@
+not a love song
+by John Bon Jovie
+
+ol > li:nth-child(2), ol > li:nth-child(4), ol > li:nth-child(8), ol > li:nth-child(6) {
+  color: #76cdd8;
+}
+ol > li:nth-child(5), ol > li:nth-child(7) {
+  color: #CEDB56;
+}
+ol > li:last-child {
+  color: #008ACE;
+}
+
+==
+
+++++++++++++++++
+
+
+
+oooooooooooooo
